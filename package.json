@@ -1,6 +1,6 @@
 {
   "name": "vendure-plugin-google-cloud-logger",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A Google Cloud logger for Vendure ecommerce",
   "engines": {
     "node": ">=14.0.0"
