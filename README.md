@@ -10,6 +10,7 @@ This is still an experimental plugin, so no warranties and all that.
 
 ```ts
 // In your vendure-config.ts file just add this plugin:
+import { GoogleCloudLoggerPlugin } from 'vendure-plugin-google-cloud-logger'
 
 export const config: VendureConfig = {
   plugins: [
